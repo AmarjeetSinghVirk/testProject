@@ -1,0 +1,14 @@
+VERSATILE MEMO
+This is multipurpose app that is used on daily bases to perform basic tasks. App focuses on productivity and efficiency, as for each of the tasks that are written below there is a separate app available on mobile phone, but this app single handedly performs all those functions. 
+
+USES
+1. Used to save your notes.
+2. Act as a calendrer.
+3. Used as a reminder app.
+4. Can be configured to perform daily tasks.
+5. Monitors our screen on time and figure out the pattern to adapt with the user.
+6. Can coordinate with our Alarm.
+
+Advantages
+1. Memory used by this app will be much less than the others app, as only one app replaces many other.
+2. This app will reduce the hustle of the user as one application can be used to perform several functions.
